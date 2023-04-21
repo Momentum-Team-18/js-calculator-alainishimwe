@@ -1,5 +1,5 @@
 .container {
-    background-color: aqua;
+    /* background-color: aqua; */
     width: 100%;
     height: 100%;
     height: 1000px;
@@ -8,11 +8,10 @@
     justify-content: center;
 }
 
- /* .calculator {
-    display: grid;
-    grid-auto-flow: column;
+ .calculator {
+    background-color: #7fe77c;
 
-}  */
+} 
 
  /* .form {
     display: grid;
@@ -51,7 +50,7 @@
     align-items: center;
 } 
 
-.button {
+.button, .button1 {
     border-bottom: none;
     /* display: flex;
     justify-content: center;
